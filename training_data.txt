@@ -1,0 +1,159 @@
+﻿ROOMS
+	BOOKING STATUS
+	ROOM TYPE
+	PRICE
+	IDEAL CUSTOMER
+	A1
+	available
+	standard
+	100rs
+	single person
+	A2
+	booked
+	double bed
+	150rs
+	couple
+	A3
+	booked
+	standard + balcony
+	120rs
+	single person
+	A4
+	available
+	double bed + balcony
+	180rs
+	couple
+	A5
+	available
+	standard suite
+	250rs
+	family of 5
+	A5
+	booked
+	luxury suite
+	280rs
+	family of 5
+	
+
+	
+
+	
+
+	
+
+	
+
+	QUERIES
+	ANSWERS
+	
+
+	
+
+	
+
+	Do you have Wi-Fi?
+	Yes, we offer free high-speed Wi-Fi throughout the property.
+	
+
+	
+
+	
+
+	Are pets allowed at your hotel?
+	Unfortunately, pets are not allowed in our hotel.
+	
+
+	
+
+	
+
+	How can I book a room?
+	You can book a room directly on our website, through our app, or by calling us
+	
+
+	
+
+	
+
+	Do you have family rooms or suites?
+	Yes, we have family rooms and suites with additional space and amenities.
+	
+
+	
+
+	
+
+	Do you offer room service?
+	Yes, 24-hour room service is available.
+	
+
+	
+
+	
+
+	What types of rooms do you offer?
+	We offer a variety of room types, including Standard, Deluxe, Executive, and Suite.
+	
+
+	
+
+	
+
+	Do you offer any discounts or promotions?
+	Yes, we frequently offer discounts for early bookings, long stays, and group reservations.
+	
+
+	
+
+	
+
+	Do I need a credit card to book a room?
+	Yes, a valid credit card is required to secure your reservation.
+	
+
+	
+
+	
+
+	Can I make a reservation for someone else?
+	Yes, you can book a room for someone else.
+	
+
+	
+
+	
+
+	Can I modify or change my booking?
+	Yes, you can modify your booking by contacting us directly.
+	
+
+	
+
+	
+
+	What payment methods do you accept?
+	We accept all major credit cards, debit cards, and cash payments.
+	
+
+	
+
+	
+
+	Can I get a refund if I cancel my booking?
+	Refunds depend on the cancellation policy associated with your booking.
+	
+
+	
+
+	
+
+	Can I extend my stay after check-in?
+	Yes, you can extend your stay, subject to room availability.
+	
+
+	
+
+	
+
+	What happens if I don’t show up for my booking?
+	For no-shows, the first night's charge will be applied, and the remaining stay will be canceled
