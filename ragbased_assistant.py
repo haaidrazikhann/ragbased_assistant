@@ -1,8 +1,9 @@
+from google.colab import userdata
 from langchain_community.document_loaders import TextLoader
 from langchain.prompts import PromptTemplate
 import google.generativeai as genai
 
-config = genai.configure(api_key="")
+api_key = userdata.get("GOOGLE_API_KEY")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 file_name = "training_data.txt"
