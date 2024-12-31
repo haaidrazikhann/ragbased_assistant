@@ -1,10 +1,11 @@
 import streamlit as st
+from google.colab import userdata
 from langchain_community.document_loaders import TextLoader
 from langchain.prompts import PromptTemplate
 import google.generativeai as genai
 
 # Configure Google Generative AI
-genai.configure(api_key="")  # Replace with your API key
+api_key = userdata.get("GOOGLE_API_KEY")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Load the training data file
